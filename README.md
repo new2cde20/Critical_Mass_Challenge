@@ -2,7 +2,7 @@
 Repository for Critical Mass coding challenge.
 
 Work / Project Examples:\
-Three examples of work/projects that I've recently participated in are -
+Three examples of work/projects that I've recently participated in are:
 1) Software Engineering Capstone - This project was for my software engineering capstone at Lewis University. I collaborated with a classmate to redesign a website for a non-for-profit\ organization, the Cancer Support Center. During this project, I utilized HTML, CSS, JavaScript, Sass Bourbon, and\
 JQuery for the frontend design and applications on our website. For the backend actions of the website (i.e., allowing users to submit forms on the website), I utilized PHP.\
 Here is the link to the repository for this project: https://github.com/new2cde20/CSC_GroupRepo
@@ -43,7 +43,7 @@ we could easily insert the header and footer on every HTML page we made without 
 from the header and footer on each subsequent HTML page.
 
 
--Focus: 
+-Focus:\ 
 If I were given the time and resources to build/learn anything I wanted during my internship, I would\
 like to have the opportunity to learn more popular frameworks and languages that are being used. My primary\
 expertise in front-end programming is with HTML, CSS, and JavaScript. While I find all of these great, I would\
