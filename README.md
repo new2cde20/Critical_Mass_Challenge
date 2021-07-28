@@ -44,7 +44,7 @@ from the header and footer on each subsequent HTML page.
 
 
 -Focus: 
-\If I were given the time and resources to build/learn anything I wanted during my internship, I would\
+If I were given the time and resources to build/learn anything I wanted during my internship, I would\
 like to have the opportunity to learn more popular frameworks and languages that are being used. My primary\
 expertise in front-end programming is with HTML, CSS, and JavaScript. While I find all of these great, I would\
 like to be able to learn more - specifically React and Vue.js. I've never built an app before - most of my\
