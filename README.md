@@ -3,7 +3,7 @@ Repository for Critical Mass coding challenge.
 
 Work / Project Examples:\
 Three examples of work/projects that I've recently participated in are:
-1) Software Engineering Capstone - This project was for my software engineering capstone at Lewis University. I collaborated with a classmate to redesign a website for a non-for-profit\ organization, the Cancer Support Center. During this project, I utilized HTML, CSS, JavaScript, Sass Bourbon, and\
+1) Software Engineering Capstone - This project was for my software engineering capstone at Lewis University. I collaborated with a classmate to redesign a website for a non-for-profit organization, the Cancer Support Center. During this project, I utilized HTML, CSS, JavaScript, Sass Bourbon, and\
 JQuery for the frontend design and applications on our website. For the backend actions of the website (i.e., allowing users to submit forms and emails on the website), I utilized PHP.\
 Here is the link to the repository for this project: https://github.com/new2cde20/CSC_GroupRepo
 
