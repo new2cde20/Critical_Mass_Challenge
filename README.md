@@ -4,10 +4,10 @@ Repository for Critical Mass coding challenge.
 Work / Project Examples:\
 Three examples of work/projects that I've recently participated in are:
 1) Software Engineering Capstone - This project was for my software engineering capstone at Lewis University. I collaborated with a classmate to redesign a website for a non-for-profit\ organization, the Cancer Support Center. During this project, I utilized HTML, CSS, JavaScript, Sass Bourbon, and\
-JQuery for the frontend design and applications on our website. For the backend actions of the website (i.e., allowing users to submit forms on the website), I utilized PHP.\
+JQuery for the frontend design and applications on our website. For the backend actions of the website (i.e., allowing users to submit forms and emails on the website), I utilized PHP.\
 Here is the link to the repository for this project: https://github.com/new2cde20/CSC_GroupRepo
 
-2) CSmadeEasy - I collaborated with a classmate to create a newsletter focused on computer science topics. I utilized HTML, CSS, Node.js, Bootstrap, and an API from MailChimp for this project. This repository is private due to keys/tokens we had to generate for the API but if you would like\
+2) CSmadeEasy - I collaborated with a classmate to create an app that adds people to a mailing list. I utilized HTML, CSS, Node.js, Bootstrap, and an API from MailChimp for this project. This repository is private due to keys/tokens we had to generate for the API but if you would like\
 access to the repository, I can add you as a collaborator: https://github.com/henrypalmer/CSmadeEasy
 Otherwise, I have included a copy of my code for this project in the email response for this challenge\
 in a .zip file.
@@ -37,18 +37,16 @@ submit information over our server without having to buy a domain.
 3) "Reusable HTML Components – How to Reuse a Header and Footer on a Website:"\
 https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/
 Lastly, I found this website's article inspiring while working on my Capstone project. I thought it was\
-inspiring because it allowed my teammate and I to design our website in a way that made coding easier for us\
-and we didn't have to use as much code within our project. By using reusable HTML components,\
+inspiring because it allowed my teammate and I to design our website in a way that made coding easier for us -\ we didn't have to use as much code within our project. By using reusable HTML components,\
 we could easily insert the header and footer on every HTML page we made without having to copy all of the code
 from the header and footer on each subsequent HTML page.
 
 
--Focus:\ 
-If I were given the time and resources to build/learn anything I wanted during my internship, I would\
-like to have the opportunity to learn more popular frameworks and languages that are being used. My primary\
+-Focus: If I were given the time and resources to build/learn anything I wanted during my internship, I would\
+like to have the opportunity to learn more popular frameworks and languages. My primary\
 expertise in front-end programming is with HTML, CSS, and JavaScript. While I find all of these great, I would\
-like to be able to learn more - specifically React and Vue.js. I've never built an app before - most of my\
-projects have been web-focused (i.e., websites). If I could get the chance to build an app (or apps) using\
+like to be able to learn React and Vue.js. I've never built an app before - most of my\
+projects have been web-focused (e.g., websites). If I could have the chance to build an app (or apps) using\
 either React or Vue.js, I feel that it would be a wonderful opportunity for me to grow as a developer. If\
 React and/or Vue.js are not options, I still would like to have the opportunity to build an app using whatever\
 languages/frameworks/IDE(s) that Critical Mass focuses on using. So, if that means using something like Android Studio, I'd be open to that as well.
