@@ -56,13 +56,13 @@ Code Challenge:\
 Link to the work I completed for the CodeSandbox challenge: https://yhqo7.csb.app/
 
 I was able to complete the following from this challenge:\
--Looping over menuItems and categorizing them into sections based on each item's 'type'.
--I was able to sort the items by their 'menuOrder' but was not able to do this by each category (e.g., I couldn't sort all the starters by menuOrder). I was able to sort all of the items by menuOrder (largest to smallest).
--I was able to render the sorted results into the appropriate container within 'index.html'
+-Looping over menuItems and categorizing them into sections based on each item's 'type'.\
+-I was able to sort the items by their 'menuOrder' but was not able to do this by each category (e.g., I couldn't sort all the starters by menuOrder). I was able to sort all of the items by menuOrder (largest to smallest).\
+-I was able to render the sorted results into the appropriate container within 'index.html'\
 -I was able to add some "Italian menu" styling to boost my store's sales.
 
 I was not able to complete the following/got stuck on the following:
--I was not able to format the prices.
+-I was not able to format the prices.\
 -I was not able to render the "spicy" icon next to any menu items where 'spicy' was true.
 
 Even though I was not able to complete everything in this section, I had some ideas on where I wanted to go with the parts I wasn't able to complete, which you can see in my commented out code (index.js).
