@@ -61,7 +61,7 @@ I was able to complete the following from this challenge:\
 -I was able to render the sorted results into the appropriate container within 'index.html'\
 -I was able to add some "Italian menu" styling to boost my store's sales.
 
-I was not able to complete the following/got stuck on the following:
+I was not able to complete the following/got stuck on the following:\
 -I was not able to format the prices.\
 -I was not able to render the "spicy" icon next to any menu items where 'spicy' was true.
 
