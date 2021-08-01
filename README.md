@@ -10,7 +10,7 @@ Here is the link to the repository for this project: https://github.com/new2cde2
 2) CSmadeEasy - I collaborated with a classmate to create an app that adds people to a mailing list. I utilized HTML, CSS, Node.js, Bootstrap, and an API from MailChimp for this project. This repository is private due to keys/tokens we had to generate for the API but if you would like\
 access to the repository, I can add you as a collaborator: https://github.com/henrypalmer/CSmadeEasy
 Otherwise, I have included a copy of my code for this project in the email response for this challenge\
-in a .zip file.
+as an attachment that links to Google Drive.
 
 3) SerializeThis - This was a final project I completed in my object-oriented programming class. I utilized Java to create an application that serialized medical data for a patient/patients.\
 Here is the link to the repository for this project: https://github.com/new2cde20/Final_Project
@@ -50,4 +50,22 @@ projects have been web-focused (e.g., websites). If I could have the chance to b
 either React or Vue.js, I feel that it would be a wonderful opportunity for me to grow as a developer. If\
 React and/or Vue.js are not options, I still would like to have the opportunity to build an app using whatever\
 languages/frameworks/IDE(s) that Critical Mass focuses on using. So, if that means using something like Android Studio, I'd be open to that as well.
+
+
+Code Challenge:\
+Link to CodeSandbox challenge: https://yhqo7.csb.app/
+
+I was able to complete the following from this challenge:\
+-Looping over menuItems and categorizing them into sections based on each item's 'type'
+-I was able to sort the items by their 'menuOrder' but was not able to do this by each category (e.g., I couldn't sort all the starters by menuOrder). I was able to sort all of the items by menuOrder 
+-I was able to render the sorted results into the appropriate container within 'index.html'
+-I was able to add some "Italian menu" styling to boost my store's sales.\
+
+I was not able to complete the following/got stuck on the following:
+-I was not able to format the prices
+-I was not able to render the "spicy" icon next to any menu items were 'spicy' was true\
+
+Even though I was not able to complete everything in this section, I had some ideas on where I wanted to go with the parts I wasn't able to complete, which you can see in my commented out code.\
+
+I was able to learn a lot while completing this portion of the coding challenge, particularly with JavaScript, and I appreciate the opportunity to participate in Critical Mass's coding challenge!
 
