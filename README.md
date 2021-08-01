@@ -58,7 +58,7 @@ Link to the work I completed for the CodeSandbox challenge: https://yhqo7.csb.ap
 I was able to complete the following from this challenge:\
 -Looping over menuItems and categorizing them into sections based on each item's 'type'.\
 -I was able to sort the items by their 'menuOrder' but was not able to do this by each category (e.g., I couldn't sort all the starters by menuOrder). I was able to sort all of the items by menuOrder (largest to smallest).\
--I was able to render the sorted results into the appropriate container within 'index.html'\
+-I was able to render the sorted results into the appropriate container within 'index.html'.\
 -I was able to add some "Italian menu" styling to boost my store's sales.
 
 I was not able to complete the following/got stuck on the following:\
